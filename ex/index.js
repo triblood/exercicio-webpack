@@ -1,3 +1,8 @@
-const logger = require('./logger')
+import './estilo.css'
+import 'react'
 
-logger.info('Usando como padrão CommonJS!')
+export default props =>(
+	<h1>teste</h1>
+)
+
+console.log('funfo')
